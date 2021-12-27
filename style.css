@@ -1,0 +1,58 @@
+.village {
+    font-family: "Google Sans","Arial",sans-serif;
+    user-select: none;
+    font-size: 72px;
+    line-height: .75em;
+    color: rgb(255, 255, 255);
+    overflow-x: hidden;
+    position: absolute;
+    inset: 0px;
+}
+.layer1 {
+    font-family: "Google Sans","Arial",sans-serif;
+    user-select: none;
+    font-size: 72px;
+    line-height: .75em;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    inset: 0px;
+    background: center bottom / 1599px no-repeat transparent;
+    overflow: hidden;
+    background-image: url("https://maps.gstatic.com/mapfiles/santatracker/v202112241053/scenes/modvil/img/village/1.svg");
+}
+.layer2 {
+    font-family: "Google Sans","Arial",sans-serif;
+    user-select: none;
+    font-size: 72px;
+    line-height: .75em;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    inset: 0px;
+    background: center bottom / 1599px no-repeat transparent;
+    overflow: hidden;
+    background-image: url("https://maps.gstatic.com/mapfiles/santatracker/v202112241053/scenes/modvil/img/village/2.svg");
+}
+.layer3 {
+    font-family: "Google Sans","Arial",sans-serif;
+    user-select: none;
+    font-size: 72px;
+    line-height: .75em;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    inset: 0px;
+    background: center bottom / 1370px no-repeat transparent;
+    overflow: hidden;
+    background-image: url("https://maps.gstatic.com/mapfiles/santatracker/v202112241053/scenes/modvil/img/village/3.svg");
+}
+.layer4 {
+    font-family: "Google Sans","Arial",sans-serif;
+    user-select: none;
+    font-size: 72px;
+    line-height: .75em;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    inset: 0px;
+    background: center bottom / 1599px no-repeat transparent;
+    overflow: hidden;
+    background-image: url("https://maps.gstatic.com/mapfiles/santatracker/v202112241053/scenes/modvil/img/village/4.svg");
+}
