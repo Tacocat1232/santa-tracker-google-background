@@ -3,7 +3,7 @@ Recreated the background for understanding color palette purposes (of doodles) o
 
 
 
-This is project by Soumya-99 in which they recolored the google Santa Tracker Home page. It was made using HTMl and CSS. 
+This is project by Soumya-99 in which they recolored the Google Santa Tracker Home page. It was made using HTML and CSS. 
 Run it with Replit.com:
 [![Run on Repl.it](https://repl.it/badge/github/soumya-99/santa-tracker-google-background)](https://repl.it/github/soumya-99/santa-tracker-google-background)
 
